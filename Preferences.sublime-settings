@@ -4,9 +4,11 @@
 	"font_face": "Fira Code",
 	"font_size": 10,
 	"word_wrap": "false",
+	"translate_tabs_to_spaces": true,
+	"caret_style": "solid",
+	"block_caret": true,
 	"ignored_packages":
 	[
-		"ayu",
 		"Markdown",
 		"Vintage",
 	],
