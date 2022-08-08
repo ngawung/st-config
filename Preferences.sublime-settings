@@ -1,0 +1,13 @@
+{
+	"theme": "Gravity One.sublime-theme",
+	"color_scheme": "One Dark Gravity.sublime-color-scheme",
+	"font_face": "Fira Code",
+	"font_size": 10,
+	"word_wrap": "false",
+	"ignored_packages":
+	[
+		"ayu",
+		"Markdown",
+		"Vintage",
+	],
+}

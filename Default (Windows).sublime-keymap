@@ -1,0 +1,5 @@
+[
+	{ "keys": ["ctrl+\\"], "command": "toggle_side_bar" },
+	{ "keys": ["ctrl+alt+u"], "command": "upper_case" },
+	{ "keys": ["ctrl+alt+l"], "command": "lower_case" }
+]
