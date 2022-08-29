@@ -1,8 +1,9 @@
 {
 	"theme": "Gravity One.sublime-theme",
-	"color_scheme": "One Dark Gravity.sublime-color-scheme",
-	"font_face": "Fira Code",
-	"font_size": 10,
+	"color_scheme": "ayu-dark.sublime-color-scheme",
+	"font_face": "Fira Mono",
+	"font_size": 11,
+	"font_options": [""],
 	"word_wrap": "false",
 	"translate_tabs_to_spaces": true,
 	"caret_style": "solid",
@@ -10,6 +11,10 @@
 	"ignored_packages":
 	[
 		"Markdown",
+		"SublimeGDB",
 		"Vintage",
 	],
+	"dark_theme": "Adaptive.sublime-theme",
+	"light_theme": "Adaptive.sublime-theme",
+	"tab_size": 4,
 }

@@ -4,13 +4,10 @@
 		"clangd":
 		{
 			"command": [
-			  "C:\\SDK\\llvm-mingw-20220323-ucrt-x86_64\\bin\\clangd.exe",
-			  "-header-insertion=never",
-			  "--query-driver=C:\\SDK\\mingw64\\bin\\c++.exe,C:\\SDK\\mingw64\\bin\\gcc.exe,C:\\SDK\\mingw64\\bin\\g++.exe"
+			  "clangd",
+			  "-header-insertion=never"
 			],
 			"enabled": true,
-			"selector": "source.c | source.c++ | source.objc | source.objc++",
-			"auto_complete_selector": "punctuation.accessor | (meta.preprocessor.include string - punctuation.definition.string.end)",
 		},
 	},
 }

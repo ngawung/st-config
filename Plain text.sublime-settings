@@ -1,0 +1,10 @@
+// These settings override both User and Default settings for the Plain text syntax
+{
+    "auto_match_enabled": false,
+    "font_face": "Fira Mono",
+    "font_options": ["no_antialias", "bold"],
+    "line_numbers": false,
+    "gutter": false,
+    "show_indentation": false,
+    "draw_indent_guides": false,
+}

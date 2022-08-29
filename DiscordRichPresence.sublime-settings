@@ -1,3 +1,5 @@
 {
-	"time_per_file": false
+	"time_per_file": false,
+	"details": "Editing {file} ({sizehf})",
+	"state": "{project}",
 }

@@ -1,0 +1,13 @@
+{
+    "shell_cmd": "cmake --build . && start cmd /K $project_base_name.exe",
+    "working_dir": "$project_path/build",
+    "variants": 
+    [
+         {
+            "name": "Run",
+            "shell": "true",
+            "shell_cmd": "start cmd /K $project_base_name.exe",
+            "working_dir": "$project_path/build",
+         }   
+    ]
+}

@@ -1,0 +1,5 @@
+{
+    "workingdir": "${folder:${file}}/build",
+    "commandline": "gdb --interpreter=mi --args ./${file_base_name}.exe",
+    "env": {"DISPLAY": ":100"},
+}
