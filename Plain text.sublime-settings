@@ -2,7 +2,7 @@
 {
     "auto_match_enabled": false,
     "font_face": "Fira Mono",
-    "font_options": ["no_antialias", "bold"],
+    "font_options": ["bold"],
     "line_numbers": false,
     "gutter": false,
     "show_indentation": false,

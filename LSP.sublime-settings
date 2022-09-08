@@ -5,7 +5,8 @@
 		{
 			"command": [
 			  "clangd",
-			  "-header-insertion=never"
+			  "-header-insertion=never",
+			  "-query-driver=/opt/devkitpro/devkitARM/bin/arm-none-eabi-g++"
 			],
 			"enabled": true,
 		},
