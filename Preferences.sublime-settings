@@ -1,8 +1,8 @@
 {
-	"theme": "Adaptive.sublime-theme",
+	"theme": "Gravity One.sublime-theme",
 	"color_scheme": "ayu-dark.sublime-color-scheme",
 	"font_face": "Fira Mono",
-	"font_size": 13,
+	"font_size": 11,
 	"word_wrap": false,
 	"translate_tabs_to_spaces": true,
 	"caret_style": "solid",
@@ -11,4 +11,9 @@
 	"light_theme": "Adaptive.sublime-theme",
 	"tab_size": 4,
 	"drag_text": false,
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", ".Trash", ".Trash-*", "node_modules"],
 }
