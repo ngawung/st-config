@@ -2,7 +2,7 @@
 	"theme": "Gravity One.sublime-theme",
 	"color_scheme": "ayu-dark.sublime-color-scheme",
 	"font_face": "Fira Mono",
-	"font_size": 11,
+	"font_size": 10,
 	"word_wrap": false,
 	"translate_tabs_to_spaces": true,
 	"caret_style": "solid",
